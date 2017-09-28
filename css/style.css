@@ -1,0 +1,21 @@
+
+.my-nav {
+  background: deepskyblue; /* 設定導覽區背景顏色 */
+}
+
+.my-nav ul {
+  margin: 10px 0; /* 調整 ul.nav 上下間距 */
+  background: lightskyblue;
+}
+
+img {
+  margin: 10px;
+}
+
+form {
+  padding-bottom: 100px;
+}
+
+body {
+  padding-top: 78px;
+}
